@@ -1,0 +1,4 @@
+[submodule "covid19"]
+	path = covid19
+	url = git@github.com:stcmz/mccs-example-covid19
+	branch = main
